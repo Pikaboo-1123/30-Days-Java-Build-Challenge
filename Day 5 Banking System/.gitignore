@@ -1,0 +1,11 @@
+
+### `.gitignore`
+
+Use:
+
+```gitignore
+*.class
+.idea/
+.vscode/
+out/
+bin/
